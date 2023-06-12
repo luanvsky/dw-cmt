@@ -1,11 +1,11 @@
-# Nome do meu projeto
+# DataWarehouse na Coordenação de Manutenção e Transporte
 
-Rápida descrição do objetivo de fazer esse projeto
+Esse projeto tem o objetivo em desenvolver e implementar um Datawarehouse no setor de transporte de um orgão público. 
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
+| :sparkles: Nome        | **DW-CMT**
+| :label: Tecnologias | jupyter, html, python, SQL, M, DAX e Power BI
 | :rocket: URL         | https://url-deploy.com.br
 | :fire: Desafio     | https://url-do-desafio.com.br
 
