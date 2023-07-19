@@ -2,12 +2,12 @@
 
 Esse projeto tem o objetivo em desenvolver e implementar um Datawarehouse no setor de transporte de um orgão público. 
 
-| :placard: Vitrine.Dev |     |
+| :placard: Vitrine.Dev |  |
 | -------------  | --- |
 | :sparkles: Nome        | **DW-CMT**
-| :label: Tecnologias | jupyter, html, python, SQL, M, DAX e Power BI
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :label: Tecnologias | jupyter, html, CSS, python, SQL, M, DAX e Power BI
+| :rocket: URL         | [https://url-deploy.com.br](https://ifsergipe.sharepoint.com/:f:/s/sofaltouacereja/Etle4GR7w6tIl0tdz1dmFx4BaxfwZxDxuzPFxGPcVLKXeA?e=j1YujY) |
+| :fire: Desafio     | em implementação no setor |
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev#victrinedev)
