@@ -10,7 +10,7 @@ Esse projeto tem o objetivo em desenvolver e implementar um Datawarehouse no set
 | :fire: Desafio     | 🚧 em implementação no setor 🚧 |
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev#victrinedev)
+![image](http://www.ifs.edu.br/images/proad/2021/bot%C3%B5es_dadm/capa_DADM.png)
 
 ![image](https://github.com/luanvsky/dw-cmt/assets/119130562/2c2bad44-1196-452e-9d25-2388d4176387)
 
