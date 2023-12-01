@@ -3,7 +3,7 @@
 Esse projeto tem o objetivo em desenvolver e implementar um Datawarehouse no setor de transporte de um orgão público. 
 
 | :placard: Vitrine.Dev | Coordenação de Manutenção e Trnasporte |
-| -------------  | --- |
+| :-------------  | :--- |
 | :sparkles: Nome        | **DW-CMT**
 | :label: Tecnologias | jupyter, html, CSS, python, SQL, M, DAX e Power BI
 | :rocket: URL         | [https://url-deploy.com.br](https://ifsergipe.sharepoint.com/:f:/s/sofaltouacereja/Etle4GR7w6tIl0tdz1dmFx4BaxfwZxDxuzPFxGPcVLKXeA?e=j1YujY) |
